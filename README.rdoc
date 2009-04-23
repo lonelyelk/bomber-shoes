@@ -1,4 +1,5 @@
 = Bomber
 
 == Summary
-Simple oldschool nostalgic bomber game. Created with <a href="http://shoooes.net/">Shoes</a>
+Simple oldschool nostalgic bomber game. Created with {Shoes}[http://shoooes.net/]
+Just run app.rb file with your shoes, click "start", hit space, enjoy!
