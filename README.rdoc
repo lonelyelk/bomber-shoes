@@ -1,5 +1,11 @@
 = Bomber
 
 == Summary
-Simple oldschool nostalgic bomber game. Created with {Shoes}[http://shoooes.net/]
-Just run app.rb file with your shoes, click "start", hit space, enjoy!
+Simple oldschool nostalgic bomber game. Created with {Shoes}[http://shoooes.net/].
+
+== Instructions
+* {Install Shoes}[http://help.shoooes.net/Installing.html]
+* Run app.rb file with your shoes
+* Click "start"
+* Hit space to drop the bombs
+* Enjoy!
